@@ -9,7 +9,6 @@ namespace RecipeBook
         {
             var recipies = new List<Recipe>();
 
-
             using (StreamReader r = new StreamReader("./../../../JsonFiles/Recipes.json"))
             {
                 string json = r.ReadToEnd();
