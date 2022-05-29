@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K2YOlVFSy8zQ+bvMm00l0EpIxm4vATEb0how21zCzdaaO/v54hGk9G7rSvh7JI1tSdhe8qv0a4HYU8b3V+s0Tw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BojanAndreevski\\OneDrive - Polar Cape Consulting\\Desktop\\dotNetAcademy\\.NetAcademy\\RecipeBook\\RecipeBook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BojanAndreevski\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
